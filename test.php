@@ -9,3 +9,8 @@
 echo "moro // Peter -- tulos1asd";
 echo "trallalllaa";
 echo ("late");
+
+header("location: http://www.magneetto.com");
+
+
+?>
