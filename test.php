@@ -10,6 +10,11 @@ echo "moro // Peter -- tulos1asd";
 echo "trallalllaa";
 echo ("late");
 
+function testi($param) {
+    echo $lasdk;
+    return true;
+}
+
 //header("location: http://www.magneetto.com");
 
 
